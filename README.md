@@ -1,2 +1,2 @@
 # PMCPerf
-Source code and Load tests will be conducted under this project
+Source code modifications, issue resolvements  and Load tests will be conducted under this project
